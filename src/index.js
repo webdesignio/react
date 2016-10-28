@@ -1,3 +1,2 @@
-import _connectToField from './connectToField'
-
-export const connectToField = _connectToField
+export { default as connectToField } from './connectToField'
+export { default as connect } from './connect'
