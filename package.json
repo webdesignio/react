@@ -1,6 +1,6 @@
 {
   "name": "@webdesignio/react",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "webdesignio-bindings for react.",
   "main": "index.js",
   "scripts": {
